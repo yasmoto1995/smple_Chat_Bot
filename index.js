@@ -1,7 +1,7 @@
-const {dockStart,dock} = require("@nlpjs/basic");
+const { dockStart, dock } = require("@nlpjs/basic");
 
 
-(async () => {
+(async() => {
     await dockStart();
     const nlp = dock.get('nlp');
     await nlp.train();
@@ -18,5 +18,5 @@ const port = 5500;
 // app.use(express.static("./front-end/index.html"));
 
 app.listen(port, () => {
-  console.log(`Front-end app is running at http://localhost:${port}`);
+    console.log(`Front-end app is running at http://localhost:${port}`);
 });

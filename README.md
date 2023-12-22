@@ -12,7 +12,7 @@ To be able to run the application, meet the following prerequisites:
 ### Setup
 
 1. Clone this project to your local machine:
-     git clone https://github.com/TalipOrdu/ChatBot_App
+     git clone https://github.com/yasmoto1995/ChatBot_App
 2. Go to the project directory:
      cd Path/PROJECT_NAME
 3. Required packages downloads to install the following:
@@ -24,10 +24,12 @@ This will run the chatbot run on the console.
 ##Note
 You can run the application on a different port, you can edit the port number in the index.js output.
 const port = 8080; // determines the port number you want to use here
+This bot is very simple. don't learn.
+This version 1.0. I will update in the future.
 
 Open your browser and go to http://localhost:8080/. If you have run the application on this URL, you can access the chatbot from your browser.
 
 ##Contact
 If you have any questions, suggestions, or feedback, please get in touch with us at ordu.talip007@gmail.com or open an issue on GitHub.
 
-![result2](https://github.com/TalipOrdu/ChatBot_App/assets/80225142/0d2a3158-a595-4dcf-b3ca-aad24965e2a3)
+![result2](https://github.com/yasmoto1995/ChatBot_App/assets/80225142/0d2a3158-a595-4dcf-b3ca-aad24965e2a3)
